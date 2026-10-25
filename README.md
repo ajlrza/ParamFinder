@@ -2,7 +2,7 @@
 A System Architecture Proposal for A Cloud-Agnostic Orchestration Layer for Asynchronous Hyperparameter Optimization
 
 # About
-Machine learning and deep learning models require strategic tweaking in its hyperparameters, but findng the right one require N times iterations. ParamFinder is a system architceture proposed to orchestrate asynchronous hyperparameter optimization across consented remote computers in a decentralized network without shouldering the compute on your own.
+Machine learning and deep learning models require strategic tweaking in its hyperparameters, but findng the right one require N times iterations. ParamFinder is a system architecture proposed to orchestrate asynchronous hyperparameter optimization across consented remote computers in a decentralized network without shouldering the compute cost on your own machine.
 
 # Architecture
 <img width="601" height="444" alt="tikz-export (6)" src="https://github.com/user-attachments/assets/4b990a9c-c36d-4b51-aa25-f2d000f24677" />
